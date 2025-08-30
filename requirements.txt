@@ -1,0 +1,9 @@
+Faker
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+flask-restful
+importlib-resources
+ipdb
+pytest
+sqlalchemy-serializer
